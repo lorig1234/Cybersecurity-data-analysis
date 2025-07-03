@@ -1,3 +1,3 @@
-pipeline.ipynb is the pipeline about the data <br>
-everything ending with .csv is versions of the data <br>
-catboost_info and incident_time_catboost.cbm are the model that was built. <br>
+pipeline.ipynb is the pipeline about the data. <br>
+Any file that ends with “.csv” represents a version of the dataset. <br>
+The trained model artifacts are stored in the catboost_info directory and the incident_time_catboost.cbm file. <br>
